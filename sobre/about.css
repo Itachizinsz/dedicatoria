@@ -1,0 +1,18 @@
+*{
+ 	/* Remove a margem externa de todos os lados do elemento. */
+     margin: 0;
+
+     /* Remove o espaçamento interno de todos os lados do elemento. */
+     padding: 0;
+ 
+     /* Inclui o preenchimento e a borda na largura e altura. */
+     /* box-sizing: border-box; */
+    }
+    body{
+    background-image: url(../assets/public/images/cute-cat-sleeping-on-grass-desktop-wallpaper-preview.jpg);
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+}
